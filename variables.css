@@ -1,0 +1,32 @@
+:root{
+    --btn-border: 3px dotted black;
+    --btn-padding: 15px 25px;
+    --btn-fw: 600;
+    --btn-rounded: 8px;
+    --primary-color: rgb(44, 131, 44);
+    --primary-hover-color: rgb(48, 98, 34);
+    --secondary-color: rgb(30, 0, 255);
+    --secondary-hover-color: rgb(43, 20, 222);
+    --warning: orangered;
+    --warning-hover: rgb(202, 74, 28);
+    --global-ff: 'Montserrat', sans-serif;
+    --titles-fw: 600;
+    --titles-lh: 1.3;
+    --titles-padding: 0.3em 0 0.7em;
+    --global-fz1:38px;
+    --global-fz2:34px;
+    --global-fz3:30px;
+    --global-fz4:26px;
+    --global-fz5:22px;
+    --global-fz6:18px;
+    --container-width: 1428px;
+    --container-padding: 0 12px;
+    --page-title: 48px;
+    --page-title-margin: 28px 0 60px;
+    --example-bg: #adff2f;
+    --example-padding: 100px 0;
+    --example-mb: 100px;
+}
+
+
+
